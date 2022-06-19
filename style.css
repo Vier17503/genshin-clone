@@ -105,6 +105,7 @@
 }
 
 .event {
+    cursor: pointer;
     padding: 12px;
     background-color: #433C3B;
     opacity: 0.8;
