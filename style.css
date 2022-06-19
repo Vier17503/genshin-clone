@@ -148,6 +148,10 @@
     transform: scale(1.05);
 }
 
+.map-item {
+    cursor: pointer;
+}
+
 .image-banner2 {
     opacity: 0;
     transition: 1s all ease-in-out;
