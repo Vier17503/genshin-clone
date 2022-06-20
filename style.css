@@ -285,3 +285,23 @@
 .hoyo img {
     height: 50px;
 }
+
+.banner3 {
+    background: url(img/2021071516521972191.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    overflow: hidden;
+}
+
+.image-banner img {
+    width: 100%;
+}
+
+.content-info {
+    background-color: #433c3b9b;
+    padding: 16px;
+    border-radius: 5px;
+    width: 600px;
+    color: white;
+}
