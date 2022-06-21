@@ -60,6 +60,7 @@
     opacity: 0;
     transition-duration: 1s;
     flex-direction: column;
+    border-radius: 3px;
 }
 
 .dropdown:hover .dropdown-content {
